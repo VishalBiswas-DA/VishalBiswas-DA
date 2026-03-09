@@ -28,13 +28,13 @@ Currently building projects using Python, SQL and data visualization tools.
 
 ## Projects
 
-### Sales Data Analysis
-Analyzed sales data to identify revenue trends and key performance metrics using Python.
+### 📊 Sales Data Analysis
+Analyzed sales data to identify revenue trends using Python and Pandas.
 
-### Netflix Data Analysis
-Explored Netflix dataset to discover patterns in content type, release year and ratings.
+### 🎬 Netflix Data Analysis
+Explored Netflix dataset to discover patterns in content type and release year.
 
-### Customer Segmentation
+### 👥 Customer Segmentation
 Segmented customers based on purchasing behavior using clustering techniques.
 
 ---
