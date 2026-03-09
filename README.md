@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Vishal Biswas 👋
 
-<!--
-**VishalBiswas-DA/VishalBiswas-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst  
+🐍 Python | SQL | Data Visualization  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights.  
+Currently building projects using Python, SQL and data visualization tools.
+
+---
+
+## Skills
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Data Cleaning
+- Data Visualization
+- Excel
+- Power BI
+
+---
+
+## Projects
+
+### Sales Data Analysis
+Analyzed sales data to identify revenue trends and key performance metrics using Python.
+
+### Netflix Data Analysis
+Explored Netflix dataset to discover patterns in content type, release year and ratings.
+
+### Customer Segmentation
+Segmented customers based on purchasing behavior using clustering techniques.
+
+---
+
+## Connect with Me
+
+LinkedIn: https://www.linkedin.com/in/vishal-biswas-7a7402276/
